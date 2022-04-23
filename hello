@@ -1,0 +1,2 @@
+def ph(s):
+    print('Hello succes')
